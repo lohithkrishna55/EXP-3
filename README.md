@@ -59,10 +59,10 @@ To control the status of the given lamp by using two-way switches.
 
 | S. No. | Switch S1 position | Switch S2 position | Lamp status (ON / OFF) |
 |:---:|:---:|:---:|:---:|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
+| 1 | OFF | OFF | ON |
+| 2 | OFF | ON | OFF |
+| 3 | ON | OFF | OFF |
+| 4 | ON | ON | ON |
 
 ## B. CROSS CONNECTION
 
