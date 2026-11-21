@@ -1,8 +1,8 @@
 ## EXPERIMENT NO. 3 – STAIRCASE WIRING
 
-| **Name:** | | **Reg. No.:** | |
+| **Name:** | LOHITH KRISHNA S| **Reg. No.:** | 26007644 |
 |---|---|---|---|
-| **Date:** | | **Batch / Section:** | |
+| **Date:** | 21/11/2026 | **Batch / Section:** | 26ODJ102 |
 
 ---
 
