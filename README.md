@@ -47,7 +47,9 @@ To control the status of the given lamp by using two-way switches.
 
 ### Circuit diagram
 
-*[ Insert the direct connection circuit diagram here ]*
+<img width="1401" height="551" alt="exnor circuit exp3" src="https://github.com/user-attachments/assets/1e2edcef-2bfb-46d0-bc69-0b8c3e43e14c" />
+
+
 
 **Figure 1:** Staircase wiring – direct connection
 
@@ -66,7 +68,9 @@ To control the status of the given lamp by using two-way switches.
 
 ### Circuit diagram
 
-*[ Insert the cross connection circuit diagram here ]*
+<img width="1446" height="645" alt="exor circuit exp 3" src="https://github.com/user-attachments/assets/deabde0e-5193-4ab4-a1cc-6f65e725fb0f" />
+
+
 
 **Figure 2:** Staircase wiring – cross connection
 
@@ -87,13 +91,17 @@ Build both the direct and cross connection circuits in Proteus using an AC sourc
 
 ### A. Direct connection – simulation
 
-*[ Paste the Proteus direct connection simulation screenshot here ]*
+<img width="1401" height="551" alt="exnor circuit exp3" src="https://github.com/user-attachments/assets/94a1874d-fd84-4ce4-b408-221d43f539ac" />
+
+
 
 **Figure 3:** Proteus simulation – direct connection
 
 ### B. Cross connection – simulation
 
-*[ Paste the Proteus cross connection simulation screenshot here ]*
+<img width="1446" height="645" alt="exor circuit exp 3" src="https://github.com/user-attachments/assets/4a857b56-bbe7-4e90-ad8c-8dda066a10e9" />
+
+
 
 **Figure 4:** Proteus simulation – cross connection
 
